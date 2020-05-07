@@ -17,11 +17,11 @@ namespace VCVIDERP.Controllers
     {
   
         [HttpGet]
-        public List<Course> Get()
+        public List<Course> Get(string courseParemeter="BCAD")
         {
 
             CourseFactory courseFactory = new CourseFactory();
-            ICourseManager courseManager = courseFactory.getCourse("BCOM");
+            ICourseManager courseManager = courseFactory.getCourse(courseParemeter);
             List<Course> bcadReturnedData = courseManager.getCourseData();
             return bcadReturnedData;
 
