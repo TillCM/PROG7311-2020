@@ -1,0 +1,8 @@
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\ctill\Documents\Visual Studio 2019\Projects\SINGLETON\VCVIDERP\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
